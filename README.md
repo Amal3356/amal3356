@@ -67,11 +67,11 @@ My focus is on creating responsive, elegant, and accessible interfaces that comb
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amal3356&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal3356&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
@@ -96,5 +96,5 @@ My focus is on creating responsive, elegant, and accessible interfaces that comb
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amal3356&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </p>
